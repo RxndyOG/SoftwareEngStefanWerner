@@ -99,7 +99,7 @@ namespace SWE.Models
             set => deck = value;
         }
 
-        public void addToStack(Cards[] newCards)
+        public void addToStack(Cards[] newCards)       // gibt neue karten dem stack hinzu
         {
 
             foreach (var card in newCards)
@@ -120,7 +120,7 @@ namespace SWE.Models
             }
         }
 
-        public void printUserData()
+        public void printUserData()       // printed das profil
         {
             Console.WriteLine("\nUser ID: " + setGetUserID);
             Console.WriteLine("Username: " + Username);
@@ -136,7 +136,7 @@ namespace SWE.Models
             Console.WriteLine("Amount of Cards in Deck: " + setGetDeck.Count() + "\n");
         }
 
-        public void changeAccount(Dictionary<string, string> data)
+        public void changeAccount(Dictionary<string, string> data)    //ändert das profil momentan nur 4 Werte weil nicht mehr im curl skript gefragt wird. Bei der endabgabe dann mehr
         {
 
             foreach (var _data in data)
@@ -159,7 +159,7 @@ namespace SWE.Models
             }
         }
 
-        public void tryPackage()
+        public void tryPackage()    // wird benutzt wenn packages random sein sollen momentan wird es nicht benutzt
         {
             Cards[] openedCards = new Cards[6];
 
@@ -177,7 +177,7 @@ namespace SWE.Models
             }
         }
 
-        public bool printStack()
+        public bool printStack()    //printed den gesammten stack
         {
             if (getSetStack == null || getSetStack.Count == 0)
             {
@@ -207,7 +207,7 @@ namespace SWE.Models
         }
 
 
-        public bool printDeck()
+        public bool printDeck()     //printed das deck
         {
             if (setGetDeck == null || setGetDeck.Count == 0)
             {

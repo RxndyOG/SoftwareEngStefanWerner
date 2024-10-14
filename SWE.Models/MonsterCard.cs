@@ -12,7 +12,7 @@ namespace SWE.Models
             GetSetCardName = "Empty Name";
         }
 
-        public void GenereateRandomMonsterCard(Random rnd)
+        public void GenereateRandomMonsterCard(Random rnd)        // momentan nicht benutz erstellt random eine monster karte
         {
             GetSetCardType= (int) CardType.monster;
             int r = rnd.Next(1,15);

@@ -96,12 +96,12 @@ namespace SWE.Models
                 }
             }
 
-            int methodHASH = method.GetHashCode();
-            int urlHASH = url.GetHashCode();
+            int methodHASH = method.GetHashCode();      // hashed die Input methode damit man switch benutzen kann (damit es schneller geht, ohne if else)
+            int urlHASH = url.GetHashCode();            // hashed die url für die unterschiedlichen methoden
 
             switch (methodHASH)
             {
-                case int i when i == "GET".GetHashCode():
+                case int i when i == "GET".GetHashCode():       // hashed die GET string und testet ob es der selbe wert ist
                     switch (urlHASH)
                     {
                         case int n when n == "/users/controll".GetHashCode():
@@ -162,7 +162,7 @@ namespace SWE.Models
             }
         }
 
-        private Dictionary<string, string> TestBody(string body)
+        private Dictionary<string, string> TestBody(string body)         // testet ob der body überhaupt gesetzt ist und parsed es gleich
         {
 
             Dictionary<string, string> data = new Dictionary<string, string>();
@@ -174,7 +174,7 @@ namespace SWE.Models
                 body = body.Trim('{', '}');
                 string[] pairs = body.Split(',');
 
-                foreach (string pair in pairs)
+                foreach (string pair in pairs)      // parsed alles aus dem body was nicht gebraucht wird
                 {
                     string[] keyValue = pair.Split(':');
                     string key = keyValue[0].Trim(' ', '"');
@@ -187,7 +187,7 @@ namespace SWE.Models
             return data;
         }
 
-        private User isAuthentic(Dictionary<string, string> headers)
+        private User isAuthentic(Dictionary<string, string> headers)        // testet ob der user existiert mittels token
         {
             string bearerToken = string.Empty;
 
@@ -205,12 +205,12 @@ namespace SWE.Models
             return null;
         }
 
-        private void HandleUserControllPUT(NetworkStream stream, string body, Dictionary<string, string> headers, string userName)
+        private void HandleUserControllPUT(NetworkStream stream, string body, Dictionary<string, string> headers, string userName)    // wenn der user sein profil ändern mächte
         {
 
             Dictionary<string, string> data = new Dictionary<string, string>();
 
-            if (!string.IsNullOrEmpty(body))
+            if (!string.IsNullOrEmpty(body))          // muss wegen Image anders geparsed werden als die anderen funktionen
             {
 
                 body = body.Trim('{', '}');
@@ -263,7 +263,7 @@ namespace SWE.Models
 
         }
 
-        private void HandleUserControllGET(NetworkStream stream, string body, Dictionary<string, string> headers, string userName)
+        private void HandleUserControllGET(NetworkStream stream, string body, Dictionary<string, string> headers, string userName)  //printed das profil des users
         {
 
 
@@ -287,7 +287,7 @@ namespace SWE.Models
 
         }
 
-        private void HandlePutDeck(NetworkStream stream, string body, Dictionary<string, string> headers)
+        private void HandlePutDeck(NetworkStream stream, string body, Dictionary<string, string> headers)    // wenn der user neue karten ins deck geben möchte
         {
             List<string> data = new List<string>();
 
@@ -316,34 +316,34 @@ namespace SWE.Models
                 return;
             }
 
-            
+
             User userExists = isAuthentic(headers);
 
             if (userExists != null)
             {
-                foreach (string id in data)
+                foreach (string id in data)    // geht alle eingegebenen ids im body durch
+                {
+
+                    Cards cardExists = userExists.getSetStack.FirstOrDefault(j => j != null && j.GetSetID == id);   //testet ob der angegebene user überhaupt die id hat
+
+                    if (cardExists != null)
                     {
-
-                        Cards cardExists = userExists.getSetStack.FirstOrDefault(j => j != null && j.GetSetID == id);
-
-                        if (cardExists != null)
+                        if (!userExists.setGetDeck.Contains(cardExists))
                         {
-                            if (!userExists.setGetDeck.Contains(cardExists))
-                            {
-                                userExists.setGetDeck.Add(cardExists);
-                                Console.WriteLine("Card added to deck");
+                            userExists.setGetDeck.Add(cardExists);        // momentan werden die existierenden ids eingefügt. bei der endabgabe wird es dann sein das es testet bevor es einfügt also wenn die vierte eingegebene id nicht existiert sollten keine eingefügt werden
+                            Console.WriteLine("Card added to deck");
 
-                            }
-                        }
-                        else
-                        {
-                            Console.WriteLine("You do not own this card");
-                            SendResponse(stream, "409", "Not owned Card");
-                            return;
                         }
                     }
-                    SendResponse(stream, "201", "");
-                    return;
+                    else       
+                    {
+                        Console.WriteLine("You do not own this card");
+                        SendResponse(stream, "409", "Not owned Card");
+                        return;
+                    }
+                }
+                SendResponse(stream, "201", "");
+                return;
             }
 
             Console.WriteLine("Unautherized");
@@ -351,7 +351,7 @@ namespace SWE.Models
 
         }
 
-        private void HandleDeckCards(NetworkStream stream, string body, Dictionary<string, string> headers)
+        private void HandleDeckCards(NetworkStream stream, string body, Dictionary<string, string> headers)     // Printed alle karten im deck
         {
             Dictionary<string, string> data = TestBody(body);
 
@@ -368,7 +368,7 @@ namespace SWE.Models
             SendResponse(stream, "409", "Unautherized");
         }
 
-        private void HandleStackCards(NetworkStream stream, string body, Dictionary<string, string> headers)
+        private void HandleStackCards(NetworkStream stream, string body, Dictionary<string, string> headers)    //printed alle karten im stack
         {
             Dictionary<string, string> data = TestBody(body);
 
@@ -387,10 +387,9 @@ namespace SWE.Models
 
         }
 
-        private void HandleTransPackages(NetworkStream stream, string body, Dictionary<string, string> headers)
+        private void HandleTransPackages(NetworkStream stream, string body, Dictionary<string, string> headers)     //handles die transaction und das adden der packages zum client
         {
             Dictionary<string, string> data = TestBody(body);
-
 
             User userExists = isAuthentic(headers);
 
@@ -425,7 +424,7 @@ namespace SWE.Models
             }
         }
 
-        private void HandlePackages(NetworkStream stream, string body, Dictionary<string, string> headers)
+        private void HandlePackages(NetworkStream stream, string body, Dictionary<string, string> headers)     // wenn der admin packages dazu geben möchte
         {
             Dictionary<string, string> data = TestBody(body);
 
@@ -459,7 +458,7 @@ namespace SWE.Models
             }
         }
 
-        private void HandleLogin(NetworkStream stream, string body)
+        private void HandleLogin(NetworkStream stream, string body)     // login mit existierenden user
         {
             if (string.IsNullOrEmpty(body)) return;
 
@@ -517,7 +516,7 @@ namespace SWE.Models
             }
         }
 
-        private void HandleRegisterUser(NetworkStream stream, string body)
+        private void HandleRegisterUser(NetworkStream stream, string body)  //register new user
         {
             Dictionary<string, string> data = TestBody(body);
 
@@ -554,7 +553,7 @@ namespace SWE.Models
             }
         }
 
-        private void SendResponse(NetworkStream stream, string status, string body)
+        private void SendResponse(NetworkStream stream, string status, string body)   // sended die http response
         {
             string response = $"HTTP/1.1 {status}\r\n" +
                               "Content-Type: text/plain\r\n" +

@@ -10,7 +10,7 @@
             GetSetCardName = "Empty Name";
         }
 
-        public void GenereateRandomSpellCard(Random rnd)
+        public void GenereateRandomSpellCard(Random rnd)    // wird momentan nicht benötigt wird benutzt bei random karten kreation
         {
             GetSetCardType = (int)CardType.spell;
             int r = rnd.Next(1, 6);

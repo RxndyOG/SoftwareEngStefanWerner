@@ -46,21 +46,21 @@
             FireElves = 14
         }
 
-        public Dictionary<int, string> desc = new Dictionary<int, string>()
+        public Dictionary<int, string> desc = new Dictionary<int, string>()      // wird dann später für random karte benutz
         {
             {2, "SchmeiSSe einen Stein auf den Gegner"},
             {4, "SchmeiSSe einen groSSen Feuerball auf den Gegner"},
             {6, "METEOR!!!!!"}
         };
 
-        public Dictionary<int, int> spellDamage = new Dictionary<int, int>()
+        public Dictionary<int, int> spellDamage = new Dictionary<int, int>()       // wird dann später für random karte benutz
         {
             {2, 1},
             {4, 4},
             {6, 7},
         };
 
-        public Dictionary<int, string> families = new Dictionary<int, string>() {
+        public Dictionary<int, string> families = new Dictionary<int, string>() {    // wird dann später für random karte benutz
             {2, "Goblins"},
             {4, "Dragons"},
             {6, "Wizzard"},
@@ -118,7 +118,7 @@
             set => SpellDamage = value;
         }
 
-        public void printCardInfo(int i)
+        public void printCardInfo(int i)    //printed die karte mit id  (gedacht während dem battle)
         {
             if (GetSetCardType == 2)
             {
@@ -159,7 +159,7 @@
             Console.ForegroundColor = ConsoleColor.White;
         }
 
-        public void printCardInfo()
+        public void printCardInfo()      //printed die karte ohne id
         {
             if (GetSetCardType == 2)
             {

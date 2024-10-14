@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWE1.MonsterGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb8ab3e04b034a1b3b5ab63c50d2bd0c9c214b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd841cb4ae91b46e58e7a1c346b69b0304786815")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWE1.MonsterGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWE1.MonsterGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@
         
 
         
-        public Cards[] openPackage()
+        public Cards[] openPackage()    // erstellt random packages wird momentan nicht benutzt (karten werden erst erstellt wenn ein package geöffnet wird also admin kann es nicht erstellen) (sonst währe es in einem echten kartenspiel nicht fair)
         {
 
             for (int i = 0; i < 5; i++)
