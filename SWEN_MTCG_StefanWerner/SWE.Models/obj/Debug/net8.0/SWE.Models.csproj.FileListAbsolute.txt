@@ -1,0 +1,47 @@
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.deps.json
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.pdb
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfoInputs.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfo.cs
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.csproj.CoreCompileInputs.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.sourcelink.json
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\refint\SWE.Models.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.pdb
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\ref\SWE.Models.dll
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.deps.json
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.dll
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\bin\Debug\net8.0\SWE.Models.pdb
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfoInputs.cache
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfo.cs
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.csproj.CoreCompileInputs.cache
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.dll
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\refint\SWE.Models.dll
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\SWE.Models.pdb
+F:\FHTechnikum\SoftwareEngineering\SWE.Models\obj\Debug\net8.0\ref\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\bin\Debug\net8.0\SWE.Models.deps.json
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\bin\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\bin\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfoInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfo.cs
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.csproj.CoreCompileInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.sourcelink.json
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\refint\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\SWE.Models\obj\Debug\net8.0\ref\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\bin\Debug\net8.0\SWE.Models.deps.json
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\bin\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\bin\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfoInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.AssemblyInfo.cs
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.csproj.CoreCompileInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.sourcelink.json
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\refint\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE.Models\obj\Debug\net8.0\ref\SWE.Models.dll

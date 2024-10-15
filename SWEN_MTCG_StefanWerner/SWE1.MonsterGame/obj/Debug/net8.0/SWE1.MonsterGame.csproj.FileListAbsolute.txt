@@ -1,0 +1,79 @@
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.exe
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.deps.json
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.runtimeconfig.json
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.pdb
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.AssemblyReference.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfoInputs.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfo.cs
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.CoreCompileInputs.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.sourcelink.json
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.Mon.6C2CDA87.Up2Date
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\refint\SWE1.MonsterGame.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.genruntimeconfig.cache
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\ref\SWE1.MonsterGame.dll
+D:\FH Technikum\Semester 3\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.exe
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.deps.json
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.runtimeconfig.json
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.pdb
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.pdb
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.AssemblyReference.cache
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfoInputs.cache
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfo.cs
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.CoreCompileInputs.cache
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.Mon.6C2CDA87.Up2Date
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\refint\SWE1.MonsterGame.dll
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.pdb
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.genruntimeconfig.cache
+F:\FHTechnikum\SoftwareEngineering\SWE1.MonsterGame\obj\Debug\net8.0\ref\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.exe
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.deps.json
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.runtimeconfig.json
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.AssemblyReference.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfoInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfo.cs
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.CoreCompileInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.sourcelink.json
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.Mon.6C2CDA87.Up2Date
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\refint\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.genruntimeconfig.cache
+D:\FHTechnikum\Semester3\SoftwareEng\SWE1.MonsterGame\obj\Debug\net8.0\ref\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.exe
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.deps.json
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.runtimeconfig.json
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\bin\Debug\net8.0\SWE.Models.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.AssemblyReference.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfoInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.AssemblyInfo.cs
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.csproj.CoreCompileInputs.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.sourcelink.json
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.Mon.6C2CDA87.Up2Date
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\refint\SWE1.MonsterGame.dll
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.pdb
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\SWE1.MonsterGame.genruntimeconfig.cache
+D:\FHTechnikum\Semester3\SoftwareEng\MonsterCardGameFolder\SWE1.MonsterGame\obj\Debug\net8.0\ref\SWE1.MonsterGame.dll
