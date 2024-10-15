@@ -1,32 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\MonsterCardGameFolder\\SWE1.MonsterGame\\",
+  "WorkspaceRootPath": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\TCPServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|d:\\fhtechnikum\\semester3\\softwareeng\\monstercardgamefolder\\swe1.monstergame\\monstertradingcards.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe1.monstergame\\monstertradingcards.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|solutionrelative:monstertradingcards.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|d:\\fhtechnikum\\semester3\\softwareeng\\monstercardgamefolder\\swe1.monstergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA26CB-046A-4A63-8371-EA29DA9AE6C6}|..\\SWE.Models\\SWE.Models.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe.models\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|f:\\fhtechnikum\\softwareengineering\\monstergamefolder\\swe1.monstergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2BBDC08-005E-409F-8AD1-6F69BBA16A0E}|SWE1.MonsterGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\SpellCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\MonsterCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,10 +38,6 @@
           "DockedWidth": 220,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -62,100 +58,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SpellCard.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\SpellCard.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\SpellCard.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\SpellCard.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\SpellCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:54.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MonsterTradingCards.sh",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\MonsterCardGameFolder\\SWE1.MonsterGame\\MonsterTradingCards.sh",
-              "RelativeDocumentMoniker": "MonsterTradingCards.sh",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\MonsterCardGameFolder\\SWE1.MonsterGame\\MonsterTradingCards.sh",
-              "RelativeToolTip": "MonsterTradingCards.sh",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAANwAAAAGAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2024-10-14T06:53:59.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cards.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Cards.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\Cards.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Cards.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\Cards.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:57.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MonsterCard.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\MonsterCard.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\MonsterCard.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\MonsterCard.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\MonsterCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:56.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Package.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Package.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\Package.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\Package.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\Package.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:55.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TCPServer.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\TCPServer.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\TCPServer.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\TCPServer.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\TCPServer.cs",
-              "ViewState": "AgIAAIQBAAAAAAAAAAAQwKgBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:53.75Z",
+              "WhenOpened": "2024-10-14T15:24:48.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\..\\SWE.Models\\User.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\SWE.Models\\User.cs",
-              "RelativeToolTip": "..\\..\\SWE.Models\\User.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAcwL8AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\User.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\User.cs",
+              "RelativeToolTip": "..\\SWE.Models\\User.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAANEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:52.836Z"
+              "WhenOpened": "2024-10-14T15:24:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\TCPServer.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\TCPServer.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\TCPServer.cs",
+              "RelativeToolTip": "..\\SWE.Models\\TCPServer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCsCAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpellCard.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\SpellCard.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\SpellCard.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\SpellCard.cs",
+              "RelativeToolTip": "..\\SWE.Models\\SpellCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Package.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\Package.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\Package.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\Package.cs",
+              "RelativeToolTip": "..\\SWE.Models\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAD2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonsterCard.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\MonsterCard.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\MonsterCard.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\MonsterCard.cs",
+              "RelativeToolTip": "..\\SWE.Models\\MonsterCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cards.cs",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\Cards.cs",
+              "RelativeDocumentMoniker": "..\\SWE.Models\\Cards.cs",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\Cards.cs",
+              "RelativeToolTip": "..\\SWE.Models\\Cards.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:24:07.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\MonsterCardGameFolder\\SWE1.MonsterGame\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\FHTechnikum\\Semester3\\SoftwareEng\\MonsterCardGameFolder\\SWE1.MonsterGame\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T12:33:10.315Z"
+              "Title": "MonsterTradingCards.sh",
+              "DocumentMoniker": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\MonsterTradingCards.sh",
+              "RelativeDocumentMoniker": "MonsterTradingCards.sh",
+              "ToolTip": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\MonsterTradingCards.sh",
+              "RelativeToolTip": "MonsterTradingCards.sh",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAANwAAAAGAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-10-14T06:53:59.138Z",
+              "EditorCaption": ""
             }
           ]
         }

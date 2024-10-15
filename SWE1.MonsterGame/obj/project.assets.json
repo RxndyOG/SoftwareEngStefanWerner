@@ -227,11 +227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\SWE1.MonsterGame.csproj",
+      "projectUniqueName": "F:\\FHTechnikum\\Semester 3\\SWEN\\MonsterCardGame\\SWE1.MonsterGame\\SWE1.MonsterGame.csproj",
       "projectName": "SWE1.MonsterGame",
-      "projectPath": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\SWE1.MonsterGame.csproj",
+      "projectPath": "F:\\FHTechnikum\\Semester 3\\SWEN\\MonsterCardGame\\SWE1.MonsterGame\\SWE1.MonsterGame.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE1.MonsterGame\\obj\\",
+      "outputPath": "F:\\FHTechnikum\\Semester 3\\SWEN\\MonsterCardGame\\SWE1.MonsterGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -253,8 +253,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\SWE.Models.csproj": {
-              "projectPath": "F:\\FHTechnikum\\SoftwareEngineering\\MonsterGameFolder\\SWE.Models\\SWE.Models.csproj"
+            "F:\\FHTechnikum\\Semester 3\\SWEN\\MonsterCardGame\\SWE.Models\\SWE.Models.csproj": {
+              "projectPath": "F:\\FHTechnikum\\Semester 3\\SWEN\\MonsterCardGame\\SWE.Models\\SWE.Models.csproj"
             }
           }
         }
